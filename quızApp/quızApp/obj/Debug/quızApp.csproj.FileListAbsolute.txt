@@ -1,0 +1,8 @@
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\bin\Debug\quızApp.exe.config
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\bin\Debug\quızApp.exe
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\bin\Debug\quızApp.pdb
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\obj\Debug\quızApp.csproj.AssemblyReference.cache
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\obj\Debug\quızApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\obj\Debug\quızApp.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\obj\Debug\quızApp.exe
+C:\Users\YEŞİM\Desktop\qu-z-app\quızApp\quızApp\obj\Debug\quızApp.pdb
